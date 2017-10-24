@@ -1,0 +1,14 @@
+.nav-link{
+  cursor: pointer;
+}
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://2014photoshopsig.files.wordpress.com/2015/01/landscapes-autumn-season-sunlight-roads-fresh-new-hd-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 1050px;
+    width:1200px;
+    padding-top: 50px;
+}
+
