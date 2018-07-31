@@ -1,10 +1,24 @@
-# Ingenious-Mavericks
+# Social Academic App
 
-Academic Social Portal.
+A web-app which provides a platform for students to Post/Read reviews about a professor. 
 
+Students can also post/ answer questions, discuss assignments etc
 
-An academic portal which allows students to get information on the classes and the professors without being influenced by personal opinions. 
-The aim of this portal is the provide a solution that prevents scenarios where students are confused about classes or face issues like  class timing clashes or not having classes to take up.
-It also aims at providing a platform where students can discuss about swapping classes and answer questions asked about classes , professors or another academic and university related information.
+Apart from student reviews, other statistics are also calculated based on the data taken from university database:    
 
+Add rate (% students getting enrolled for a professor's course) 
 
+Drop Rate (% students dropping a course after getting enrolled)
+ 
+# MEAN Stack
+
+Angular 2+
+Typescript
+Bootstrap
+JWT (JSON Web Token)
+Express.js
+Node.js
+Mongoose
+Heroku
+MongoDB
+Postman
